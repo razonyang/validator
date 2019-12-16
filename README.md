@@ -6,7 +6,7 @@ Package validator
 [![Coverage Status](https://coveralls.io/repos/go-playground/validator/badge.svg?branch=master&service=github)](https://coveralls.io/github/go-playground/validator?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-playground/validator)](https://goreportcard.com/report/github.com/go-playground/validator)
 [![GoDoc](https://godoc.org/github.com/go-playground/validator?status.svg)](https://godoc.org/github.com/go-playground/validator)
-![License](https://img.shields.io/dub/l/vibe-d.svg)
+[![License](https://img.shields.io/github/license/go-playground/validator)](LICENSE)
 
 Package validator implements value validations for structs and individual fields based on tags.
 
